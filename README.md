@@ -2,7 +2,6 @@
 
 |     PROCESADOR    | FABRICANTE | NÚCLEOS |       FRECUENCIA DE TRABAJO    | CACHÉ L1 |     CACHÉ L2      | CACHÉ L3 | HYPERTHREADING | URL |
 |-------------------|------------|---------|--------------------------------|----------|-------------------|----------|----------------|-----|
-
 | Pentium II        | Intel      | 1       | 233 MHz hasta 450 MHz          | 16 KB    | 512 KB hasta 2 MB | NO       | NO             |     |
 | Core2 Duo         | Intel      | 2       | 1.06 GHz hasta más de 3.33 GHz | 32 KB    | 1 MB hasta 6 MB   | NO       | NO             |     |
 | Phenom II X4 650T | AMD        | 4       | 3.1 GHz                        | 64 KB    | 512 KB            | 4 MB     | NO             |     |
