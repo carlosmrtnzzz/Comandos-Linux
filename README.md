@@ -13,3 +13,11 @@
 
 ![](/img/cp.png)
 
+# COMANDOS MySQL
+
+**cd** a la ruta **C:\Program Files\MySQL\MySQL Server 8.0\bin**
+
+**mysql -u root -p**  /  iniciar mysql
+
+
+
