@@ -1,7 +1,13 @@
-[https://app.creately.com/d/CmaxdWCy8Pa/edit](https://lucid.app/lucidchart/23b78cdb-a937-42b8-8307-8a3c686f59cb/edit?invitationId=inv_e085bc7d-2aa1-455a-b7c0-8f6a4a2de61b&page=0_0#)
+ls  /  mostrar todos los directorios <br>
+cd  /  moverse entre directorios <br>
+pwd  /  mostrar posición actual <br>
 
-primer piso: area comercial (3 equipos) , administrativa y financiera (4 equipos) y 2 de direccion
+![image](https://github.com/carlosmrtnzzz/cosas/assets/114419651/456ab3ef-75af-4336-94c1-6389ffce90a8)
 
-segundo piso: desarrollo software (10 equipos), diseño y marketing (2 equipos), habitación rack con 5 servers y dispositivos de comunicaciones.
+nano  /  editar ficheros <br>
+cat  /  mostrar el contenido de un fichero <br>
+sudo shutdown now  /  apagar sistema <br>
+cp  /  copiar archivos <br> <br>
 
-+ telefonos IP
+![image](https://github.com/carlosmrtnzzz/cosas/assets/114419651/639e8183-8fa5-4b14-9ec7-0d3bafc79985) 
+
