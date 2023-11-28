@@ -40,5 +40,13 @@ consumiendo, así como su identificador de proceso. <br>
 
 **mysql -u root -p**  /  iniciar mysql.
 
+**show databases;**  /  mostrar las base de datos.
+
+**use (nombre de la base de datos);**  /  usar la base de datos seleccionada.
+
+**show tables;** /  ver las tablas de la base de datos.
+
+**describe (nombre de la tabla)**  /  ver el contenido de la tabla.
+
 
 
