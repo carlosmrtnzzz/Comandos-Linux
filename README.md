@@ -50,3 +50,6 @@ consumiendo, así como su identificador de proceso. <br>
 
 ![](/img/tablesSQL.png)
 
+**SELECT * FROM (nombre de la tabla);**  /  ver las filas rellenadas de la tabla.
+
+![](/img/selectFrom.png)
