@@ -46,7 +46,7 @@ consumiendo, así como su identificador de proceso. <br>
 
 **show tables;** /  ver las tablas de la base de datos.
 
-**describe (nombre de la tabla)**  /  ver el contenido de la tabla.
+**describe (nombre de la tabla);**  /  ver el contenido de la tabla.
 
-
+![](/img/tablesSQL.png)
 
